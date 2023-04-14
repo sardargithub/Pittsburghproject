@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on Started New Order]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="430573" started-at="2021-05-01T12:12:58 EDT" finished-at="2021-05-01T12:20:08 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="430573" started-at="2021-05-01T12:12:58 EDT" finished-at="2021-05-01T12:20:08 EDT">
+      <class name="OperationsAppTasks.Task1732Main">
+        <test-method status="PASS" signature="RecreateOrder()[pri:1, instance:OperationsAppTasks.Task1732Main@d5d5353]" name="RecreateOrder" duration-ms="169595" started-at="2021-05-01T12:12:58 EDT" finished-at="2021-05-01T12:15:47 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Started New Order]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RecreateOrder -->
+        <test-method status="PASS" signature="Releaseorder()[pri:2, instance:OperationsAppTasks.Task1732Main@d5d5353]" name="Releaseorder" duration-ms="36575" started-at="2021-05-01T12:15:47 EDT" finished-at="2021-05-01T12:16:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Releaseorder -->
+        <test-method status="PASS" signature="Processorder()[pri:3, instance:OperationsAppTasks.Task1732Main@d5d5353]" name="Processorder" duration-ms="103255" started-at="2021-05-01T12:16:24 EDT" finished-at="2021-05-01T12:18:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Processorder -->
+        <test-method status="PASS" signature="Transfertocontainer()[pri:4, instance:OperationsAppTasks.Task1732Main@d5d5353]" name="Transfertocontainer" duration-ms="36742" started-at="2021-05-01T12:18:07 EDT" finished-at="2021-05-01T12:18:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfertocontainer -->
+        <test-method status="PASS" signature="Tailoring()[pri:5, instance:OperationsAppTasks.Task1732Main@d5d5353]" name="Tailoring" duration-ms="47163" started-at="2021-05-01T12:18:44 EDT" finished-at="2021-05-01T12:19:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tailoring -->
+        <test-method status="PASS" signature="QualityAsurance()[pri:6, instance:OperationsAppTasks.Task1732Main@d5d5353]" name="QualityAsurance" duration-ms="37191" started-at="2021-05-01T12:19:31 EDT" finished-at="2021-05-01T12:20:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QualityAsurance -->
+      </class> <!-- OperationsAppTasks.Task1732Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

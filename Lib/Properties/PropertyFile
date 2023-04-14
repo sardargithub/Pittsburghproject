@@ -1,0 +1,23 @@
+URL=https://int-operations.firebaseapp.com/
+Username=sardar.hussain@mail.valuecoders.com
+Password=testpass
+BarcodeNumber=600729792592
+BarcodeUpc1=600729270618
+BarcodeUpc2=600729501644
+BarcodeUpc3=98681653929
+Upcbarcodefortask1920=600729509428
+Slotbarcodeforpacking=SL000000019
+Slotbarcodeinorderprocess=SL000000002
+Transfercontainerbarcode=SL000000006
+Tailoringbarcodenum=SL000000010
+//aboveoneforTailoringtoQC
+Tailoringbarcodetoembroidery=SL000000007
+Embroiderytoprint=SL000000008
+Printtovinylbarcode=SL000000009
+QCtoAwaitingdeliverybarcode=SL000000019
+Product Name=SIDE-PKT POLYESTER TROUSERS
+EcommerceURL=https://integration-e-commerce.firebaseapp.com/
+EcommerceUn=etackleberry.ppss@gmail.com
+Ecommercepwd=ppsspassword
+Ecommercenewun=pittsburghprojecttesting@gmail.com
+Ecommercenewpwd=pittsburgh

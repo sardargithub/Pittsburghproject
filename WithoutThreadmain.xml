@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="OperationsAppTasks.LoginintoordercreationwithoutThread"/>
+      <class name="OperationsAppTasks.Task1732MainwithoutThread"/>
+      <class name="OperationsAppTasks.Task1767MobileviewwithoutThread"/>
+      <class name="OperationsAppTasks.Task1828POSModulewithoutThread"/>
+      <class name="OperationsAppTasks.Task1828POSmoduleinMobileviewwithoutThread"/>
+      <class name="OperationsAppTasks.Task1847withoutThread"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

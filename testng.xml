@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <!--
+      <class name="com.pittsburgh.EcommerceappTasks.UniformShirtsmodule"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Uniformpantsmodule"/>
+      <class name="com.pittsburgh.EcommerceappTasks.AddingProducttowishlishinmobileview"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Task1767Item2"/>
+      <class name="com.pittsburgh.EcommerceappTasks.UniformShirtsmoduleinmobileview"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Uniformpantsmoduleinmobileview"/>
+      <class name="com.pittsburgh.EcommerceappTasks.NewUserRegistrationusinggmailAcount"/>
+      <class name="com.pittsburgh.EcommerceappTasks.EcommerceLogin"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Task1767Item2forPaypallmobileview"/>
+      -->
+      <class name="OperationsAppTasks.Task1732Main"/>
+      <class name="OperationsAppTasks.Task1767ChromeMobileEmulatorItem1"/>
+      <class name="OperationsAppTasks.PPSSCUSLibScripts"/>
+<!--
+       <class name="com.pittsburgh.EcommerceappTasks.EcommerceLoginmobileview"/>
+ -->
+      <class name="OperationsAppTasks.Logintoordercreation"/>
+<!--
+       <class name="com.pittsburgh.EcommerceappTasks.Task1767item2inmobileview"/>
+       <class name="com.pittsburgh.EcommerceappTasks.NewUserRegistrationusinggmailAccmobileview"/>
+       <class name="com.pittsburgh.EcommerceappTasks.Addingtowishlist"/>
+ -->      <class name="OperationsAppTasks.Task1828POSModule"/>
+<!--
+       <class name="com.pittsburgh.EcommerceappTasks.NewUserRegistrationandlogin"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Task1767Item2forPaypall"/>
+ -->
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

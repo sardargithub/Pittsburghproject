@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.pittsburgh.EcommerceappTasks.Task1767Item2forPaypallHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Ttask1767Item2forPaypallmobileviewHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Task1767Item2Headless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.Task1767item2inmobileviewHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.NewUserRegistrationusinggmailAcountHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.NewUserRegusinggmailAccmobileviewHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.AddingtowishlistHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.AddingtowishlistinmobileviewHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.UniformpantsmoduleHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.UniformshirtsmodulewebHeadless"/>
+      <class name="com.pittsburgh.EcommerceappTasks.UniformShirtsmodulemobileviewHeadless"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

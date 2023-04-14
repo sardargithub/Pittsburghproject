@@ -1,0 +1,58 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>PittisburghpublicsafetysupplyAutomation</groupId>
+  <artifactId>PittisburghpublicsafetysupplyAutomation</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+    <dependencies><!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
+<!-- https://mvnrepository.com/artifact/io.github.pityka/fileutils -->
+<dependency>
+<groupId>io.github.pityka</groupId>
+<artifactId>fileutils_2.12</artifactId>
+<version>1.2.2</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+<dependency>
+<groupId>commons-io</groupId>
+<artifactId>commons-io</artifactId>
+<version>2.6</version>
+</dependency>
+<dependency>
+<groupId>io.github.bonigarcia</groupId>
+<artifactId>webdrivermanager</artifactId>
+<version>3.6.2</version>
+<scope>compile</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-email</artifactId>
+    <version>1.5</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
+<dependency>
+    <groupId>com.sun.mail</groupId>
+    <artifactId>javax.mail</artifactId>
+    <version>1.6.2</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/javax.activation/activation -->
+<dependency>
+    <groupId>javax.activation</groupId>
+    <artifactId>activation</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+</dependencies>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.0</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
